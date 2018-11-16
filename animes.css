@@ -1,0 +1,39 @@
+#hy-animes{
+	font-size: 16px;
+	text-align: center;
+	color: #fff;
+	width: 82%;
+	margin-left: 8%;
+	font-weight: 600;
+}
+#hy-animes img{
+	margin-left: 0.50%;
+	background-size:100% 100%;
+	box-shadow: 0px 0px 1em #666;
+	-webkit-box-shadow: 0px 0px 1em #000;
+	-moz-box-shadow: 0px 0px 1em #000;
+}
+#hy-animes img:hover{
+  -webkit-filter: blur(2px);
+  -moz-filter: blur(2px);
+  -o-filter: blur(2px);
+  -ms-filter: blur(2px);
+  filter: blur(2px);
+
+ }
+.cristal-menu{
+	ontent: ' ';
+	display: block;
+	width: 100%;
+	height: 2px;
+	margin-top: -2px;
+	background: -webkit-linear-gradient(left, rgba(186,85,2,11) 0%,
+	rgba(186,85,2,11) 20%,
+	rgba(186,85,2,11) 53%,
+	rgba(186,85,2,11) 79%,
+	rgba(186,85,2,11) 90%); 
+	background: linear-gradient(left, rgba(147,184,189,0) 0%,
+	rgba(147,184,189,0.8) 20%,rgba(147,184,189,1) 53%,
+	rgba(147,184,189,0.8) 79%,
+	rgba(147,184,189,0) 100%); 
+}

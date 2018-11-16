@@ -1,0 +1,12 @@
+#vd-videos{
+	text-align: center;
+	width: 82%;
+	margin-left: 8%;
+}
+.vd-eps{
+	border: 10px solid #222;
+	background-size:100% 100%;
+	box-shadow: 0px 0px 2em #666;
+	-webkit-box-shadow: 0px 0px 2em #000;
+	-moz-box-shadow: 0px 0px 2em #000;
+}

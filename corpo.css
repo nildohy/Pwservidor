@@ -1,0 +1,47 @@
+@charset "utf-8";
+body{
+	background-color:#1c1c1c;
+}
+#Topo{
+	background: url('https://image.ibb.co/fvt9n0/fundo.jpg') center center no-repeat fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+.C-Logo{
+	text-align: center;
+	background: rgba(0,0,0,.6);
+}
+.menu a{
+	text-align: center;
+	text-decoration:none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: 500;
+	margin-left: 2%;
+	color: #fff;
+	text-shadow: 0.1em 0.1em 0.05em #000;
+	text-shadow: 0.1em 0.1em 0.2em black;
+	text-shadow: 0 0 0.2em #888, 0 0 0.2em #888;
+}
+.menu{
+	background: #333;
+	border-bottom:2px solid #222;
+	border-top:2px solid #222;
+	height: 40px;
+	background-size:100% 100%;
+	box-shadow: 0px 0px 1em #666;
+	-webkit-box-shadow: 0px 0px 1em #000;
+	-moz-box-shadow: 0px 0px 1em #000;
+}
+
+.link{
+	margin-left: -2%;
+}
+.textos{
+	margin-top: 10px;
+	text-align: center;
+	color: #888;
+	font-size: 20px;
+}
